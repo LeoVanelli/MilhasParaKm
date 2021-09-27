@@ -1,6 +1,6 @@
 # MilhasParaKm
 
-* 🖥️ Exercício: Números e operadores(2) - MilhasParaKm
+* 🖥️ Exercício: Números e operadores (2) - MilhasParaKm
 * 🏫 Instituição: Etec Adolpho Berezin
 * ✨ Curso: Técnico em Informática
 * 👨‍🏫 Orientador: Prof.: Ermogenes & Prof.: Diego Neri
