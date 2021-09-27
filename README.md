@@ -1,6 +1,6 @@
-# Soma2Numeros
+# MilhasParaKm
 
-* 🖥️ Exercício: Números e operadores(1) - Soma2Numeros
+* 🖥️ Exercício: Números e operadores(2) - MilhasParaKm
 * 🏫 Instituição: Etec Adolpho Berezin
 * ✨ Curso: Técnico em Informática
 * 👨‍🏫 Orientador: Prof.: Ermogenes & Prof.: Diego Neri
